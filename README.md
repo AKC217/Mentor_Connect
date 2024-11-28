@@ -32,15 +32,3 @@ Mentor Connect is a comprehensive platform designed to seamlessly connect mentee
 - **Database:** MongoDB
 - **Payment Gateway:** Razorpay
 
-## Installation and Setup
-Follow these steps to set up the project locally:
-
-### Prerequisites
-- Node.js installed
-- MongoDB installed and running
-- Razorpay account for payment integration
-
-### Steps
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-repo/mentor-connect.git
