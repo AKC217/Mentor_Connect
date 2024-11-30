@@ -27,7 +27,7 @@ Mentor Connect is a comprehensive platform designed to seamlessly connect mentee
 - **Razorpay:** Secure and seamless payment processing for mentorship sessions.
 
 ## Technology Stack
-- **Frontend:** React, Redux Toolkit, HTML, CSS, JavaScript
+- **Frontend:** React, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Payment Gateway:** Razorpay
